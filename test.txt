@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 aadaf
 bbb
 ccc
+=======
+aaa
+>>>>>>> add a new file new.txt
