@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 aadaf
 bbb
 ccc
@@ -9,3 +10,9 @@ aaa
 bbb
 ccc
 temp
+=======
+new line at the, time 
+aaa
+ccc
+ddd
+>>>>>>> whitespace
