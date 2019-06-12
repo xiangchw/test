@@ -3,11 +3,9 @@
 aadaf
 bbb
 ccc
-=======
 aaa
->>>>>>> add a new file new.txt
-=======
+add a new file new.txt
 aaa
 bbb
 ccc
->>>>>>> temp
+temp
